@@ -1,0 +1,39 @@
+{
+  "invalid_rows": {
+    "T00676": "missing_amount",
+    "T00214": "negative_amount",
+    "T00284": "text_amount",
+    "T00055": "bad_date",
+    "T00199": "missing_customer",
+    "T00116": "missing_amount",
+    "T00816": "negative_amount",
+    "T00153": "text_amount",
+    "T00702": "bad_date",
+    "T00865": "missing_customer",
+    "T00992": "missing_amount",
+    "T00934": "negative_amount"
+  },
+  "duplicates": [
+    "T00839",
+    "T00927",
+    "T00790",
+    "T00472",
+    "T00045",
+    "T00108",
+    "T00771",
+    "T00054",
+    "T00964",
+    "T00560"
+  ],
+  "outliers": [
+    "T00520",
+    "T00225",
+    "T00476",
+    "T00789",
+    "T00642"
+  ],
+  "burst_customers": [
+    "C012",
+    "C011"
+  ]
+}
